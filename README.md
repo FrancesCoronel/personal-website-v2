@@ -20,20 +20,33 @@ It was built from the bottom up!
 
 ## Screenshots
 
-[Home Page](https://i.imgur.com/3Za7LEi.png)
-[About](https://i.imgur.com/BtjXpdY.jpg)
-[Adventures](https://i.imgur.com/3YGgKDz.png)
-[Archive](https://i.imgur.com/4IrdLzN.png)
-[Awards](https://i.imgur.com/LyglntT.png)
-[Blog](https://i.imgur.com/2TtCxEh.png)
-[Colophon](https://i.imgur.com/kPvRZj1.png)
-[Feedback](https://i.imgur.com/1PPcl3p.png)
-[Mentoring](https://i.imgur.com/Kl8AC3x.png)
-[Portfolio](https://i.imgur.com/YInR6se.png)
-[Resume](https://i.imgur.com/YOprxmD.png)
-[Search](https://i.imgur.com/maITwSz.png)
-[Speaking](https://i.imgur.com/8Gv5fFW.png)
-[Travels](https://i.imgur.com/F4aS0au.png)
+![Home Page](https://i.imgur.com/3Za7LEi.png)
+
+![About](https://i.imgur.com/BtjXpdY.jpg)
+
+![Adventures](https://i.imgur.com/3YGgKDz.png)
+
+![Archive](https://i.imgur.com/4IrdLzN.png)
+
+![Awards](https://i.imgur.com/LyglntT.png)
+
+![Blog](https://i.imgur.com/2TtCxEh.png)
+
+![Colophon](https://i.imgur.com/kPvRZj1.png)
+
+![Feedback](https://i.imgur.com/1PPcl3p.png)
+
+![Mentoring](https://i.imgur.com/Kl8AC3x.png)
+
+![Portfolio](https://i.imgur.com/YInR6se.png)
+
+![Resume](https://i.imgur.com/YOprxmD.png)
+
+![Search](https://i.imgur.com/maITwSz.png)
+
+![Speaking](https://i.imgur.com/8Gv5fFW.png)
+
+![Travels](https://i.imgur.com/F4aS0au.png)
 
 ## Installation
 
