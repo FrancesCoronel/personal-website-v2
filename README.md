@@ -22,29 +22,55 @@ It was built from the bottom up!
 
 ![Home Page](https://i.imgur.com/3Za7LEi.png)
 
+> About
+
 ![About](https://i.imgur.com/BtjXpdY.jpg)
+
+> Adventures
 
 ![Adventures](https://i.imgur.com/3YGgKDz.png)
 
+> Archive
+
 ![Archive](https://i.imgur.com/4IrdLzN.png)
+
+> Awards
 
 ![Awards](https://i.imgur.com/LyglntT.png)
 
+> Blog
+
 ![Blog](https://i.imgur.com/2TtCxEh.png)
+
+> Colophon
 
 ![Colophon](https://i.imgur.com/kPvRZj1.png)
 
+> Feedback
+
 ![Feedback](https://i.imgur.com/1PPcl3p.png)
+
+> Mentoring
 
 ![Mentoring](https://i.imgur.com/Kl8AC3x.png)
 
+> Portfolio
+
 ![Portfolio](https://i.imgur.com/YInR6se.png)
+
+> Resume
 
 ![Resume](https://i.imgur.com/YOprxmD.png)
 
+> Search
+
 ![Search](https://i.imgur.com/maITwSz.png)
 
+> Speaking
+
 ![Speaking](https://i.imgur.com/8Gv5fFW.png)
+
+> Travels
 
 ![Travels](https://i.imgur.com/F4aS0au.png)
 
