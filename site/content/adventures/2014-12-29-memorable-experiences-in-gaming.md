@@ -64,13 +64,13 @@ tags:
 
 2\) [**Don't Starve**](//www.dontstarvegame.com) - 💀 Mac
 
-> I wrote a [review](//fvcproductions.com/blog/2014/05/02/a-review-of-dont-starve/) of this little guy!
+> I wrote a [review](//francescoronel.com/blog/2014/05/02/a-review-of-dont-starve/) of this little guy!
 
 ![](//www.rockpapershotgun.com/images/11/aug/limb4.jpg)
 
 3\) [**Limbo**](//playdead.com/limbo/) - 🔓 Mac
 
-> Can't wait till Inside comes out - cause Limbo was friggin' awesommmeeee! I also wrote a [review](//fvcproductions.com/blog/2014/09/22/limbo-review/) on this game too because it was friggin' amazinnnngggg!!!
+> Can't wait till Inside comes out - cause Limbo was friggin' awesommmeeee! I also wrote a [review](//francescoronel.com/blog/2014/09/22/limbo-review/) on this game too because it was friggin' amazinnnngggg!!!
 
 [![](//static.gamesradar.com/images/mb/GamesRadar/us/Games/S/Sims%20Medieval/Bulk%20Viewer/PC/2010-11-11/TSM_Wizard_CAS_2--article_image.jpg)](//static.gamesradar.com/images/mb/GamesRadar/us/Games/S/Sims%20Medieval/Bulk%20Viewer/PC/2010-11-11/TSM_Wizard_CAS_2--article_image.jpg)
 

@@ -16,7 +16,7 @@ Tinkered with the [Confetti Sketch plugin](//www.sketchconfetti.com/) in order t
 
 Icons are licensed by [Freepik](//www.flaticon.com/packs/celebrations-3). No copyright intended.
 
-Feel free to [download the Sketch file](//github.com/fvcproductions/party-activities) from GitHub and modify it as you like.
+Feel free to [download the Sketch file](//github.com/FrancesCoronel/party-activities) from GitHub and modify it as you like.
 
 ![Party Activities](https://i.imgur.com/tG1Zjrb.png)
 

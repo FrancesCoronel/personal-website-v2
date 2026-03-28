@@ -11,7 +11,7 @@ tags:
   -
 ---
 
-https://github.com/fvcproductions/bootcamp-me
+https://github.com/FrancesCoronel/bootcamp-me
 
 https://www.slideshare.net/FVCproductions/bootcampme-session-1
 
@@ -51,7 +51,7 @@ Get a Theme
 * macbed.com
 * ad-blockers
 * sublime text theme: http://colorsublime.com/
-* great macos apps: http://fvcproductions.github.io/what-i-use/
+* great macos apps: http://francescoronel.github.io/what-i-use/
 
 Git & GitHub send sublime text book sublime text crack - key
 
@@ -187,13 +187,13 @@ While You’re There
 
 Feedback
 After we’re all done with the 4 sessions, I’d like you to leave a testimonial on my website. I really love feedback because it allows for faster improvement.
-http://fvcproductions.com/feedback
+http://francescoronel.com/feedback
 
-github.com/fvcproductions
+github.com/FrancesCoronel
 GitHub
 linkedin.com/in/fvcproductions
 LinkedIn
-fvcproductions.com
+francescoronel.com
 Website
 
 Schedule
@@ -279,11 +279,11 @@ Start writing technical posts or just blogging in general. Reflecting is always 
 
 There’s plenty of options out there: Ghost, Tumblr, Wordpress, Jekyll, Medium, etc.
 
-github.com/fvcproductions
+github.com/FrancesCoronel
 GitHub
 linkedin.com/in/fvcproductions
 LinkedIn
-fvcproductions.com
+francescoronel.com
 Website
 
 Schedule

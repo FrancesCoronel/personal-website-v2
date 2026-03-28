@@ -12,10 +12,10 @@ categories:
 
 I created a guessing game for the Foundations stage of [Fullstack Academy](//fullstackacademy.com).
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/guessing-game">The Guessing Game</a></h4><p>Fullstack Foundations - Part 1</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://francescoronel.github.io/guessing-game">The Guessing Game</a></h4><p>Fullstack Foundations - Part 1</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="http://github.com/fvcproductions/guessing-game">fvcproductions/guessing-game</a></h4><p>guessing-game - Fullstack Foundations - Guessing Game 🎱</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="http://github.com/FrancesCoronel/guessing-game">fvcproductions/guessing-game</a></h4><p>guessing-game - Fullstack Foundations - Guessing Game 🎱</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Features

@@ -33,7 +33,7 @@ Student of inaugural class of Summer of Code
 
 Summer of Code is an 11-week coding immersive for college students in NYC and Chicago
 
-[I blogged about my experience.](https://fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
+[I blogged about my experience.](https://francescoronel.com/blog/2015/08/30/fullstack-academy-reflections/)
 
 award: Featured Fullstack Academy Alumnus
 issuer: Course Report

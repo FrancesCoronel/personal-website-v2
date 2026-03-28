@@ -71,7 +71,7 @@ I mean, it's a pretty big decision, y'all! ;)
 
 > Made with love on [**Byword 2**](//bywordapp.com).
 >
-> > Source file [here](//github.com/fvcproductions/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt 'Byword Source File').
+> > Source file [here](//github.com/FrancesCoronel/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt 'Byword Source File').
 
 ## **Recap - The Big 5**
 

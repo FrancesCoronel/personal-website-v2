@@ -13,7 +13,7 @@ categories:
 
 A set of SVG badges I created for GitHub repos built/hacked/powered by those in the Norfolk, VA area.
 
-Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)!
+Check out the badges at [`built-in-norfolk`](https://github.com/FrancesCoronel/built-in-norfolk)!
 
 ### To include a badge in your README, just copy the `Markdown`.
 
@@ -68,5 +68,5 @@ Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/b
 
 ## GitHub Repo
 
-<blockquote class="embedly-card"><h4><a href="http://github.com/fvcproductions/built-in-norfolk">fvcproductions/built-in-norfolk</a></h4><p>built-in-norfolk - Badges for when you're hacking out in Norfolk, VA ⚓</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="http://github.com/FrancesCoronel/built-in-norfolk">fvcproductions/built-in-norfolk</a></h4><p>built-in-norfolk - Badges for when you're hacking out in Norfolk, VA ⚓</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

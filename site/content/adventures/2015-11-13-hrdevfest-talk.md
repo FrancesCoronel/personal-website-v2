@@ -44,7 +44,7 @@ I've spoken at conferences before, but never at an actual tech conference which 
 **_Thanks HR DevFest._**
 
 [![Lanyard - HR
-DevFest](//fvcproductions.files.wordpress.com/2015/11/img_0100.jpg)](//fvcproductions.com/blog/2015/11/13/hrdevfest-talk/img_0100/) Lanyard - HR DevFest
+DevFest](//fvcproductions.files.wordpress.com/2015/11/img_0100.jpg)](//francescoronel.com/blog/2015/11/13/hrdevfest-talk/img_0100/) Lanyard - HR DevFest
 
 ## Slides on Speaker Deck
 
@@ -59,12 +59,12 @@ DevFest](//fvcproductions.files.wordpress.com/2015/11/img_0100.jpg)](//fvcproduc
 //twitter.com/lisadenoia/status/665604693549170688\]
 
 [![Slack Feedback -
-HRDevFest](//fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-20-14-11.png)](//fvcproductions.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-20-14-11/) Slack Feedback - HR DevFest
+HRDevFest](//fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-20-14-11.png)](//francescoronel.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-20-14-11/) Slack Feedback - HR DevFest
 
 //twitter.com/aag1091/status/665554097798426624\]
 
 [![LinkedIn -
-Feedback](//fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-23-14-32.png)](//fvcproductions.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-23-14-32/) LinkedIn Feedback - HR DevFest
+Feedback](//fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-23-14-32.png)](//francescoronel.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-23-14-32/) LinkedIn Feedback - HR DevFest
 
 //twitter.com/erikpmp/status/665554118182703105\]
 

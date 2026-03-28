@@ -44,7 +44,7 @@ Apps](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-4
 Icons -
 Utility](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)
 
-### [Here is a `ZIP` file of the icons and commands used in this tutorial.](//github.com/fvcproductions/customize-icons 'Icons')
+### [Here is a `ZIP` file of the icons and commands used in this tutorial.](//github.com/FrancesCoronel/customize-icons 'Icons')
 
 _A special thanks to these guys for the amazing circular icons that I use in this how-to._
 
@@ -53,7 +53,7 @@ _A special thanks to these guys for the amazing circular icons that I use in thi
 
 # Step 2 - Get The Command
 
-I include this command file in the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
+I include this command file in the [`ZIP` file](//github.com/FrancesCoronel/customize-icons 'Icons') mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
 
 ````
 \#!/usr/bin/env ruby
@@ -100,7 +100,7 @@ The Icons Screenshot -
 2](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)
 
 These files are both included in a folder called `set_icon` in the
-[`ZIP` file](//github.com/fvcproductions/customize-icons "Icons")
+[`ZIP` file](//github.com/FrancesCoronel/customize-icons "Icons")
 provided in **Step 1**.
 
 The `icon-data.json` file looks something like this:
@@ -134,9 +134,9 @@ After that, type in `killall Finder` into Terminal for the command to restart th
 [![Show Hidden Files Command in
 Terminal](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)
 
-Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
+Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](//github.com/FrancesCoronel/customize-icons 'Icons') mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
 
-It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons').
+It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](//github.com/FrancesCoronel/customize-icons 'Icons').
 
 [![Utility
 Sub-Folder](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)
@@ -155,7 +155,7 @@ Now you probably have something like the following:
 
 * a folder called `All The Icons` with
   * all the icons you want to replace your old ones (in `icns` format)
-  * the `ChangeIcons.command` that was included in this [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons')
+  * the `ChangeIcons.command` that was included in this [`ZIP` file](//github.com/FrancesCoronel/customize-icons 'Icons')
   * a _hidden_ sub-folder called `.set_icons` with
     * a modified `icon-data.json` file to include your own personal apps
     * the `setfileicon` UNIX executable file

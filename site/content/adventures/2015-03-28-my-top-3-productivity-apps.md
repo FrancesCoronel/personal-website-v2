@@ -112,4 +112,4 @@ I was so slow moving windows around before this app, so once I transitioned to f
 
 Only good things can be said about this app, seriously.
 
-And that's it! Check out my post, [What I Use](//fvcproductions.com/what-i-use/ 'What I Use 📱') for more awesome apps!
+And that's it! Check out my post, [What I Use](//francescoronel.com/what-i-use/ 'What I Use 📱') for more awesome apps!

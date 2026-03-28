@@ -55,7 +55,7 @@ The areas we believe Ammalia could be the most useful is with radiology image ma
 <blockquote class="embedly-card"><h4><a href="https://devpost.com/software/ammalia">Ammalia</a></h4><p>Ammalia - A Leap Motion assisted app allowing medical professionals to view and manipulate scans while scrubbed in and sterile</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/portfolio/ammalia/">FVCproductions 🍓</a></h4><p>Ammalia. Where surgeons go to explore. Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allows a surgeon to analyze pictures of their patient's problem (i.e. brain tumors) using the Dropbox API. Use cases?</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://francescoronel.com/portfolio/ammalia/">FVCproductions 🍓</a></h4><p>Ammalia. Where surgeons go to explore. Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allows a surgeon to analyze pictures of their patient's problem (i.e. brain tumors) using the Dropbox API. Use cases?</p></blockquote>
 
 ### Awards
 
@@ -111,7 +111,7 @@ Created a README badge using Sketch to be used for project READMEs hacked out at
 
 ### Team - _Big Hero 4_
 
-* [Frances Coronel (me)](//github.com/fvcproductions)
+* [Frances Coronel (me)](//github.com/FrancesCoronel)
 * [Stephanie Zeidan](//github.com/stephzeid)
 * [Diana Wang](//github.com/diana-wang)
 * [Effie Nehoran](//github.com/effien3)

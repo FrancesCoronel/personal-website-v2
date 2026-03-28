@@ -32,6 +32,6 @@ It's pretty nifty and I'm never going back to manually formatting my resume agai
 
 > Check out my GitHub profile!
 
-<blockquote class="embedly-card"><h4><a href="http://github.com/fvcproductions">fvcproductions (Frances Coronel)</a></h4><p>fvcproductions has 100 repositories available. Follow their code on GitHub.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="http://github.com/FrancesCoronel">fvcproductions (Frances Coronel)</a></h4><p>fvcproductions has 100 repositories available. Follow their code on GitHub.</p></blockquote>
 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

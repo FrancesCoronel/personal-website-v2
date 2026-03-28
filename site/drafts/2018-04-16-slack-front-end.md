@@ -1,1 +1,1 @@
-https://github.com/fvcproductions/slack-front-end
+https://github.com/FrancesCoronel/slack-front-end

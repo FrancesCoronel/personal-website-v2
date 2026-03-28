@@ -54,40 +54,40 @@ AND THIS IS MY OFFICIAL 100TH POST!!!!!
 
 ### My Interviews with Coding Bootcamps
 
-* [Interview with Fullstack Academy of Code 🗽](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
-* [Interview with MakerSquare 💻](//fvcproductions.com/blog/2015/01/14/interview-maker-square/)
-* [Interview with Coding Dojo 🍜](//fvcproductions.com/blog/2015/01/06/interview-coding-dojo/)
-* [Interview With DevLeague 🌴](//fvcproductions.com/blog/2015/01/06/interview-devleague/)
-* [Interview with Coding House 🏠](//fvcproductions.com/blog/2015/01/06/interview-coding-house/)
-* [Interview with Hack Reactor 🔑](//fvcproductions.com/blog/2015/01/05/interview-hack-reactor/)
-* [Interview with Bitmaker Labs 🔬](//fvcproductions.com/blog/2014/03/12/interview-bitmaker-labs/)
-* [Interview with Designation 🎨](//fvcproductions.com/blog/2015/01/06/interview-with-designation/)
+* [Interview with Fullstack Academy of Code 🗽](//francescoronel.com/blog/2014/12/28/interview-fullstack-academy/)
+* [Interview with MakerSquare 💻](//francescoronel.com/blog/2015/01/14/interview-maker-square/)
+* [Interview with Coding Dojo 🍜](//francescoronel.com/blog/2015/01/06/interview-coding-dojo/)
+* [Interview With DevLeague 🌴](//francescoronel.com/blog/2015/01/06/interview-devleague/)
+* [Interview with Coding House 🏠](//francescoronel.com/blog/2015/01/06/interview-coding-house/)
+* [Interview with Hack Reactor 🔑](//francescoronel.com/blog/2015/01/05/interview-hack-reactor/)
+* [Interview with Bitmaker Labs 🔬](//francescoronel.com/blog/2014/03/12/interview-bitmaker-labs/)
+* [Interview with Designation 🎨](//francescoronel.com/blog/2015/01/06/interview-with-designation/)
 
 ![Fullstack Academy - Week 1](//fvcproductions.files.wordpress.com/2015/06/fullstack-academy-week-1-001.jpg) Fullstack Academy - Week 1
 
 ### My Fullstack Academy Experience
 
-* [The Search 🔍](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
-* [The Application 📝](//fvcproductions.com/blog/2014/12/23/week-20/)
-* [The Preparation 📚](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
-* [The Interview 💻](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
-* [The Decision ⏳](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
-* [Fullstack Foundations – Week 1 ⚡](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
-* [Fullstack Foundations – Weeks 2 to 4 🚀](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
-* [Fullstack Academy – Week 1 💫](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
-* [Fullstack Academy – Week 2 👬](//fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
-* [Fullstack Academy – Week 3 🔦🔦🔦](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
-* [Fullstack Academy – Week 4 💲🔮🔮💲](//fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
-* [Fullstack Academy – Week 5 💕💓💕](//fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
-* [Fullstack Academy – Week 6 and Review Week 🃏🃏🃏🃏🃏🃏](//fvcproductions.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
-* [ONE WEEK OF FULLSTACK LEFT 😲](//fvcproductions.com/blog/2015/08/19/one-week-left-of-fullstack/)
-* [Fullstack Academy | Reflections 🕝](//fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
+* [The Search 🔍](//francescoronel.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+* [The Application 📝](//francescoronel.com/blog/2014/12/23/week-20/)
+* [The Preparation 📚](//francescoronel.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
+* [The Interview 💻](//francescoronel.com/blog/2014/12/28/interview-fullstack-academy/)
+* [The Decision ⏳](//francescoronel.com/blog/2015/04/13/what-to-do-week-negative-8/)
+* [Fullstack Foundations – Week 1 ⚡](//francescoronel.com/blog/2015/05/17/fullstack-foundations-week-1/)
+* [Fullstack Foundations – Weeks 2 to 4 🚀](//francescoronel.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
+* [Fullstack Academy – Week 1 💫](//francescoronel.com/blog/2015/06/13/first-week-at-fullstack-academy/)
+* [Fullstack Academy – Week 2 👬](//francescoronel.com/blog/2015/06/20/fullstack-academy-week-2/)
+* [Fullstack Academy – Week 3 🔦🔦🔦](//francescoronel.com/blog/2015/06/26/fullstack-academy-week-3/)
+* [Fullstack Academy – Week 4 💲🔮🔮💲](//francescoronel.com/blog/2015/07/03/fullstack-academy-week-4/)
+* [Fullstack Academy – Week 5 💕💓💕](//francescoronel.com/blog/2015/07/11/fullstack-academy-week-5/)
+* [Fullstack Academy – Week 6 and Review Week 🃏🃏🃏🃏🃏🃏](//francescoronel.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
+* [ONE WEEK OF FULLSTACK LEFT 😲](//francescoronel.com/blog/2015/08/19/one-week-left-of-fullstack/)
+* [Fullstack Academy | Reflections 🕝](//francescoronel.com/blog/2015/08/30/fullstack-academy-reflections/)
 
 ![My Designlab Experience - Banner](//fvcproductions.files.wordpress.com/2015/10/newbanners.jpg) My Designlab Experience - Banner
 
 ### My Designlab Experience
 
-* [My Designlab Experience 🎨](//fvcproductions.com/blog/2015/10/21/my-designlab-experience)
+* [My Designlab Experience 🎨](//francescoronel.com/blog/2015/10/21/my-designlab-experience)
 
 ![MapMe - Coding Bootcamps](//fvcproductions.files.wordpress.com/2016/03/mapme.png)
 
@@ -95,15 +95,15 @@ AND THIS IS MY OFFICIAL 100TH POST!!!!!
 
 * [MapMe Coding Bootcamps - Crowd Sourced Map of Coding Bootcamps Across the World 🗺](//mapme.com/coding-bootcamps)
 * [Bootcamp.me - Google Map of Coding Bootcamps Across the World 🗺](//bit.ly/bootcampme)
-* [RankMe - Review and Rating Aggregation for Coding Bootcamps 📊](//fvcproductions.com/portfolio/rankme/)
+* [RankMe - Review and Rating Aggregation for Coding Bootcamps 📊](//francescoronel.com/portfolio/rankme/)
 
 [Magnifying the Bootcamp Research Experience](//fvcproductions.files.wordpress.com/2016/03/screenshot-2016-03-31-22-20-16.png)
 
 ### Tips and Tricks
 
-* [Preparing for JS Coding Bootcamps 📚](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
-* [Finding Coding Bootcamps 📚](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
-* [Magnifying the Bootcamp Research Experience 📚](//fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/)
+* [Preparing for JS Coding Bootcamps 📚](//francescoronel.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
+* [Finding Coding Bootcamps 📚](//francescoronel.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+* [Magnifying the Bootcamp Research Experience 📚](//francescoronel.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/)
 
 ![Dear Bootcamp](//fvcproductions.files.wordpress.com/2016/03/dearbootcamp-e1459477035126.png) Dear Bootcamp
 

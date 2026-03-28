@@ -90,7 +90,7 @@ Mentored [Kelaiya Parikh](//www.linkedin.com/in/kelaiya-parikh) for ~6 hours.
 
 > Presented February 19th, 2017
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-state-of-coding-bootcamps-2017">The State of Coding Bootcamps 2017</a></h4><p>FVCproductions https://fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-state-of-coding-bootcamps-2017">The State of Coding Bootcamps 2017</a></h4><p>FVCproductions https://francescoronel.com</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### My Summer of Code Experience
@@ -102,7 +102,7 @@ Mentored [Kelaiya Parikh](//www.linkedin.com/in/kelaiya-parikh) for ~6 hours.
 
 Overview of programs and how to prepare
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/fullstack-me">fvcproductions/fullstack-me</a></h4><p>fullstack-me - Resources for getting into Fullstack Academy. 📚</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/FrancesCoronel/fullstack-me">fvcproductions/fullstack-me</a></h4><p>fullstack-me - Resources for getting into Fullstack Academy. 📚</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Notion Page
@@ -114,7 +114,7 @@ Overview of programs and how to prepare
 
 This was a helpful resource I created that has a lot of job interview resources. Shanna shared this resource with the Career Success team to give to Fullstack job seekers.
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/hire-me">fvcproductions/hire-me</a></h4><p>hire-me - A path to getting an awesome tech gig 💼</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/FrancesCoronel/hire-me">fvcproductions/hire-me</a></h4><p>hire-me - A path to getting an awesome tech gig 💼</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Alumni Panel

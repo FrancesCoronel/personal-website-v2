@@ -12,9 +12,9 @@ aliases:
 
 ## Copyright ∞ FVCproductions
 
-The URL for this website is https://www.fvcproductions.com and there are 3 different URLs that redirect to it:
+The URL for this website is https://www.francescoronel.com and there are 3 different URLs that redirect to it:
 
-- fvcproductions.com
+- francescoronel.com
 - latinaswe.com (going to expire this)
 - latinasoftwareengineer.com
 - latinahacker.com
@@ -62,13 +62,13 @@ I'm also looking into these domains:
 
 This website was born in June of 2013 using Wordpress.com in my final month of high school.
 
-I bought my domain `fvcproductions.com` August 20th, 2014.
+I bought my domain `francescoronel.com` August 20th, 2014.
 
 Website design, development, and copy writing by Frances Coronel.
 
 The software and hardware I use on a day to day basis can be found on my [What I Use](/2018/03/18/what-i-use---spring-2018/) page - last updated Spring 2018.
 
-The source code [can be found on GitHub](//github.com/fvcproductions/fvcproductions.github.io).
+The source code [can be found on GitHub](//github.com/FrancesCoronel/francescoronel.github.io).
 
 ---
 

@@ -118,4 +118,4 @@ Austin](//fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](//fvcp
 
 * [National Convention for American Atheists](//atheists.org/convention2015)
 * [Conference of the North American Vegetarian Society](//www.vegetariansummerfest.org/index.htm)
-* [Conference of the Association for the Advancement of Artificial Intelligence (AAAI)](//www.aaai.org/Conferences/AAAI/aaai15.php) - I ended up doing just that! You can find more about that experience [here](//fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ 'Adventures with AAAI').
+* [Conference of the Association for the Advancement of Artificial Intelligence (AAAI)](//www.aaai.org/Conferences/AAAI/aaai15.php) - I ended up doing just that! You can find more about that experience [here](//francescoronel.com/blog/2015/01/30/adventures-with-aaai-2015/ 'Adventures with AAAI').

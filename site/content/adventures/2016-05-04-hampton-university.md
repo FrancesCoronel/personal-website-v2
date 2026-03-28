@@ -41,7 +41,7 @@ Hampton University is a private historically black university located in Hampton
   * acted as website committee chair since joining in October 2014, elected as treasurer and web master in January 2016
   * developed website which currently got over 2K hits and also maintain the social networks, GitBook, Typeforms, presentations, calendar, etc.
   * attended a few ACM meetings through ODU's club in Spring 2016
-  * [branding for the CS@HU department](https://fvcproductions.com/portfolio/cshu-branding)
+  * [branding for the CS@HU department](https://francescoronel.com/portfolio/cshu-branding)
   * [website for the CS@HU department](https://huacm.wordpress.com)
 * AAAI (Association for the Advancement of Artificial Intelligence)
   * awarded a scholarship to attend and volunteer at the 1st Winter AAAI Conference in Austin, Texas in January 2015
@@ -69,7 +69,7 @@ University
 * Passed CLEP Exam for Humanities (HUM 101/102) and English (ENG 101/102)
 * Received credit by examination for General Biology (BIO 103)
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/315207507/Hampton-University-Transcript">Hampton University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproduction... by fvcproductions in Types > School Work, books, and article</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/315207507/Hampton-University-Transcript">Hampton University Transcript</a></h4><p>FVCproductions Check me out at francescoronel.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproduction... by fvcproductions in Types > School Work, books, and article</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

@@ -113,5 +113,5 @@ Hope it helps! 💛
 
 > And here's one I want to point out cause I created the repo 😂
 
-<blockquote class="embedly-card"><h4><a href="//github.com/fvcproductions/diversify-me">fvcproductions/diversify-me</a></h4><p>diversify-me - A list of tech conferences that provide diversity travel grants/scholarships 💸</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="//github.com/FrancesCoronel/diversify-me">fvcproductions/diversify-me</a></h4><p>diversify-me - A list of tech conferences that provide diversity travel grants/scholarships 💸</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

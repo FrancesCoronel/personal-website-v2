@@ -15,7 +15,7 @@ tags:
 
 A circular icon made for [Blogo](//getblogo.com/), an innovative desktop blogging app.
 
-You can download the icon for Xcode, OSX, iOS, Windows, Android, favicons, folders, etc. [from GitHub](//github.com/fvcproductions/old-icon-designs/tree/master/blogo).
+You can download the icon for Xcode, OSX, iOS, Windows, Android, favicons, folders, etc. [from GitHub](//github.com/FrancesCoronel/old-icon-designs/tree/master/blogo).
 
 ![Blogo Icon 2](https://i.imgur.com/3ggzOHR.png)
 

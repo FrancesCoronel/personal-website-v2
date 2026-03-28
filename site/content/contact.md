@@ -19,7 +19,7 @@ aliases:
 
 Just have a general question? Maybe you found a typo?
 
-Feel free to [submit a new issue](//github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
+Feel free to [submit a new issue](//github.com/FrancesCoronel/ama/issues/new) through my AMA GitHub repo.
 
 ## LinkedIn 💼️
 
@@ -44,7 +44,7 @@ If none of the above options seemed appropriate for you, feel free to go old sch
 Please note that depending on the contact reason, it may take longer for me to get back to you.
 
 <section class="contact-form">
-<form method="POST" action="https://formspree.io/hello@fvcproductions.com">
+<form method="POST" action="https://formspree.io/hello@francescoronel.com">
 <div class="field half first">
 <input autocomplete="on" type="text" name="name" placeholder="Your name">
 </div>

@@ -134,17 +134,17 @@ _The Gist Of It_
 * Pass each number from the array to the "doubling" function in turn
 * Save the original numbers and the doubled results as key-value pairs in an object
 
-Recently, SwitchUp released their 2014 list of the [top coding bootcamps](//fvcproductions.com/blog/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp's Review for 31 Best Bootcamps 2014 💭"). I'd check that out too.
+Recently, SwitchUp released their 2014 list of the [top coding bootcamps](//francescoronel.com/blog/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp's Review for 31 Best Bootcamps 2014 💭"). I'd check that out too.
 
-For finding them, refer to this post [where I look over the best websites for that purpose](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ 'A Short Operation: Tips & Tricks 4 Finding Coding Bootcamps 🔎') and also the post where I [elaborate on each](//fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ 'Magnifying the Bootcamp Research Experience 🔎').
+For finding them, refer to this post [where I look over the best websites for that purpose](//francescoronel.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ 'A Short Operation: Tips & Tricks 4 Finding Coding Bootcamps 🔎') and also the post where I [elaborate on each](//francescoronel.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ 'Magnifying the Bootcamp Research Experience 🔎').
 
 I also have shared my **interview experience** with bootcamps such as
 
 * [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 * [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
-* [Coding House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
-* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-* [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+* [Coding House](//francescoronel.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
+* [Designation](//francescoronel.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+* [Dev League](//francescoronel.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
+* [Fullstack Academy](//francescoronel.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+* [Hack Reactor](//francescoronel.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
+* [Maker Square](//francescoronel.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

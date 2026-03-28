@@ -35,12 +35,12 @@ Now, I just want to reassure Automattic that I've been loving my Wordpress.com e
 
 ## So this will probably be one of my last posts on this blog as I transition all the content over. 😶
 
-Feel free to view the progress of my new blog at [fvcproductions.github.io](//fvcproductions.github.io) but I don't expect it to be fully fleshed out until July of this year.🌻
+Feel free to view the progress of my new blog at [francescoronel.github.io](//francescoronel.github.io) but I don't expect it to be fully fleshed out until July of this year.🌻
 
 ## In the meantime, I am still actively publishing content to the following services so feel free to check them out! 😊
 
 * [Behance](//behance.net/fvcproductions) (design) 🎨
-* [GitHub](//github.com/fvcproductions) (code) 💻
+* [GitHub](//github.com/FrancesCoronel) (code) 💻
 * [Scribd](//www.scribd.com/user/194063411/FVCproductions) (docs) 🗒
 * [SpeakerDeck](//speakerdeck.com/fvcproductions) (presentations) 💬
 * [YouTube](//www.youtube.com/+fvcproductions2013) (videos) 🎥

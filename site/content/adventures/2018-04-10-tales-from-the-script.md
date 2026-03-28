@@ -27,8 +27,8 @@ On this episode, [Chris DeMars](//twitter.com/saltnburnem) and I discuss the top
 ### Frances Coronel on the Web
 
 * [Twitter](//twitter.com/fvcproductions)
-* [Website](//fvcproductions.com/)
-* [Apprenticeships GitHub Repo](//github.com/fvcproductions/apprenticeships)
+* [Website](//francescoronel.com/)
+* [Apprenticeships GitHub Repo](//github.com/FrancesCoronel/apprenticeships)
 
 ### Coding Bootcamps
 
